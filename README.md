@@ -21,7 +21,7 @@ Built as part of a React Native Mobile Engineering shortlist task, the goal was 
 
 Install and run in under 5 minutes:
 
-**[⬇️ Download APK](https://expo.dev/accounts/ishant212/projects/noteflow/builds/fe130f1b-28b0-46b5-839c-b0b497262780)**
+**[⬇️ Download APK](https://expo.dev/accounts/ishant212/projects/noteflow/builds/7130e929-0507-41a9-8a01-854b31f797b9)**
 
 > Enable "Install from unknown sources" in your device settings before installing.
 
